@@ -69,8 +69,8 @@ Enfocado en construir soluciones escalables, mantenibles y de alta calidad.
 
 ## 🌐 Enlaces
 
-- 💼 LinkedIn: https://linkedin.com/in/tu-perfil  
-- 🌍 Sitio web: https://federicomelo.dev.ar  
+- 💼 LinkedIn: https://linkedin.com/in/federico-nicolas-melo
+- 🌍 Sitio web: https://federicomelo.dev.ar
 - 📄 CV disponible en LinkedIn  
 
 ---
