@@ -34,7 +34,8 @@ Enfocado en construir soluciones escalables, mantenibles y de alta calidad.
 
 ### Bases de Datos
 - Oracle Database  
-- PostgreSQL  
+- PostgreSQL
+- MySQL
 - MongoDB  
 
 ---
