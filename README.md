@@ -41,23 +41,46 @@ Enfocado en construir soluciones escalables, mantenibles y de alta calidad.
 
 ## 🏗️ Experiencia Profesional Destacada
 
-- Desarrollo de microservicios backend para entornos enterprise  
-- Migración y modernización de sistemas legacy hacia Java 21  
-- Refactorización y optimización de plataformas existentes  
-- Integración con sistemas internos y externos  
-- Programación reactiva y comunicación no bloqueante  
-- Implementación de mecanismos de seguridad y buenas prácticas  
-- Participación en pipelines de CI/CD y despliegues automatizados  
+- Desarrollo de microservicios backend para entornos enterprise.  
+- Migración y modernización de sistemas legacy hacia Java 21.  
+- Refactorización y optimización de plataformas existentes.  
+- Integración con sistemas internos y externos.  
+- Programación reactiva y comunicación no bloqueante.  
+- Implementación de mecanismos de seguridad y buenas prácticas.  
+- Participación en pipelines de CI/CD y despliegues automatizados.  
+- **Participación en actividades de consultoría técnica backend**, colaborando en procesos de análisis, migración y modernización de servicios Java en distintos contextos empresariales.
 
 ---
 
 ## 🚀 Enfoque Actual
 
-- Desarrollo backend enterprise con Java y Spring  
-- Diseño de arquitecturas limpias y escalables  
-- Sistemas distribuidos y mensajería asíncrona  
-- Mejora continua de la calidad del software  
-- Profundización técnica y buenas prácticas  
+- Desarrollo backend enterprise con Java y Spring.  
+- Diseño de arquitecturas limpias, escalables y mantenibles.  
+- Sistemas distribuidos y mensajería asíncrona.  
+- Mejora continua de la calidad del software.  
+- Profundización técnica y aplicación de buenas prácticas.
+
+---
+
+## 📚 Formación y evolución profesional
+
+Actualmente me encuentro cursando estudios orientados a **Data Science e Inteligencia Artificial**, incorporando conocimientos en:
+
+- Python aplicado al análisis y procesamiento de datos.  
+- Librerías como NumPy, Pandas, Matplotlib y Seaborn.  
+- Fundamentos de Machine Learning y Deep Learning.  
+- Procesamiento de Lenguaje Natural (NLP).  
+- Introducción a entornos de Big Data y procesamiento distribuido.
+
+De forma complementaria, realizo formación continua en **seguridad informática**, abordando conceptos como:
+
+- principios de seguridad de la información  
+- buenas prácticas de protección de aplicaciones  
+- fundamentos de ciberseguridad y análisis de vulnerabilidades  
+
+Esta formación forma parte de una **evolución técnica complementaria al desarrollo backend**, orientada a integrar capacidades de análisis, automatización, inteligencia y seguridad en arquitecturas empresariales modernas.
+
+Mi foco principal continúa siendo el **desarrollo backend enterprise con Java y Spring**, incorporando progresivamente conocimientos de datos, inteligencia artificial y seguridad como valor agregado profesional.
 
 ---
 
@@ -69,8 +92,8 @@ Enfocado en construir soluciones escalables, mantenibles y de alta calidad.
 
 ## 🌐 Enlaces
 
-- 💼 LinkedIn: https://linkedin.com/in/federico-nicolas-melo
-- 🌍 Sitio web: https://federicomelo.dev.ar
+- 💼 LinkedIn: https://linkedin.com/in/federico-nicolas-melo  
+- 🌍 Sitio web: https://federicomelo.dev.ar  
 - 📄 CV disponible en LinkedIn  
 
 ---
